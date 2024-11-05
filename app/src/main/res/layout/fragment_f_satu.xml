@@ -26,7 +26,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="300dp"
                 android:layout_gravity="center"
-                android:text="99"/>
+                android:id="@+id/text"/>
 
     </FrameLayout>
 
